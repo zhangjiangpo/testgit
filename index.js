@@ -5,4 +5,5 @@
     alert('123');
     alert('123');
     alert(9);
+    alert(11);
 })()
